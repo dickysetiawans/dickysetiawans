@@ -3,7 +3,8 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dickysetiawans/dickysetiawans/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](selanli195@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-c14438?style=flat&logo=Instagram&logoColor=white)](selanli195@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dickysetiawans_/)
+<br />
 Welcome to my Github page! I am Dicky Seiawan I am from Indonesia and I am currently Learn Programming !  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />

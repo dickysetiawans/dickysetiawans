@@ -1,25 +1,24 @@
 ﻿### Hi there 👋 
 ### This is Dicky!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/imyhacker)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arifarhan1602a@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dickysetiawans/dickysetiawans/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](selanli195@gmail.com)
 
-Welcome to my Github page! I am Ari I am from Indonesia and I am currently Learn Programming And Mathematics Basic!  
+Welcome to my Github page! I am Dicky Seiawan I am from Indonesia and I am currently Learn Programming !  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- SMK Telematika Indramayu  
-- IT Support at SMK Telematika Indramayu
-- Web Developer, IT Networking, Ethical Hacking
-- Blogger in <a href="https://suteki.my.id" target="_blank">Suteki.my.id</a> 
+- Web Developer
+- Learn Data Science
+- Game Developer 
 - Member <a href="https://github.com/indosec-id" target="_blank">@IndoSec.id</a>
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
+- Coding at least 3 hours a day
+- Exercising Everyday
 - Dicipline
 
 #### :computer: Programming languages and tools: 

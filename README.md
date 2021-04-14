@@ -31,11 +31,7 @@ Welcome to my Github page! I am Dicky Seiawan I am from Indonesia and I am curre
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code>
 <br />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sublime_text/sublime_text-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
-<sub>Buy Me Coffee ! : <a href="https://trakteer.id/arkun666" target="_blank"> Buy Me Coffee ! XD </a></sub>

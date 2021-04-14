@@ -33,7 +33,7 @@ Welcome to my Github page! I am Dicky Seiawan I am from Indonesia and I am curre
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 
-<br />
+<br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
